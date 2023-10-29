@@ -24,7 +24,7 @@ O primeiro passo do projeto foi adquirir os dados. Utilizamos os dados do portal
 
 ## Resultados
 
-Resultados do Sistema de Recomendação
+Resultados do sistema de recomendação
 
 Exemplo 1: Para o jogo " Sudoku", os jogos recomendados incluem " Color Sudoku", " Expert Sudoku", " Sudoku (Free)", entre outros. A precisão do sistema para essa entrada é de 0,82 e a revocação é de 0,93.
 
