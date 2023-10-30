@@ -12,7 +12,7 @@ Link do código do projeto: https://github.com/gustavoptavares/Jogos-de-Celular/
 
 ## Problema e Solução
 
-Vamos analisar os dados o conjunto de dados de estratégia na Apple App Store. Com os dados de 17.007 jogos de estratégia na Apple App Store, vamos entender, no detalhe, aspectos relacionados aos conteúdos pesquisados, como:
+Vamos analisar os dados o conjunto de dados dos jogos de estratégia na Apple App Store. Com os dados de 17.007 jogos de estratégia na Apple App Store, vamos entender, no detalhe, aspectos relacionados aos conteúdos pesquisados, como:
 
 • Enteder o conjunto de dados e a recomendação baseada em conteúdo.
 
