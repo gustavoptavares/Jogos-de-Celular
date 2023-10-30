@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Neste projeto, vamos analisar os dados disponíveis, O conjunto de dados de 17.007 jogos de estratégia na Apple App Store. Foram coletados em 3 de agosto de 2019, usando a API do iTunes e o mapa do site da App Store. Esses são os dados de 17.007 jogos de estratégia na Apple App Store.
+O conjunto de dados de 17.007 jogos de estratégia na Apple App Store. Foram coletados em 3 de agosto de 2019, usando a API do iTunes e o mapa do site da App Store. Esses são os dados de 17.007 jogos de estratégia na Apple App Store.
 
 Você pode conferir o dataset e o projeto na íntegra clicando abaixo:
 
